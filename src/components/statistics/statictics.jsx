@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import styles from './statistics.module.css';
+import styles from '../Statistics/statistics.module.css';
 
 const Statistics = ({ title, stats }) => {
   return (
