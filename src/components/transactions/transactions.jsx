@@ -1,3 +1,4 @@
+// Файл: TransactionHistory.jsx
 import React from 'react';
 import PropTypes from 'prop-types';
 import styles from '../transactions/transactions.module.css';
